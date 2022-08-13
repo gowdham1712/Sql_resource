@@ -1,1 +1,1 @@
-# Sql_resource
+# sql-basics
